@@ -20,6 +20,12 @@ Installation:
 2. Bring everything over from the download's gamedata folder and overwrite the configs in RealismOverhaul
 3. ???
 4. PROFIT
+1980 Varients:
+![image](https://user-images.githubusercontent.com/77604027/110506070-63b9d300-80c4-11eb-9f0d-abca3df9d621.png)
+![image](https://user-images.githubusercontent.com/77604027/110506095-69afb400-80c4-11eb-9639-a21b45d7f072.png)
+Modern Varients:
+![image](https://user-images.githubusercontent.com/77604027/110506147-7502df80-80c4-11eb-8f2c-f190751a311b.png)
+![image](https://user-images.githubusercontent.com/77604027/110506173-792efd00-80c4-11eb-9872-242a807659ff.png)
 
 
 V1.0
