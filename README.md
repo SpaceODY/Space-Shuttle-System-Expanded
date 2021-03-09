@@ -11,7 +11,7 @@ Shuttle Fixes are implemented from Raiz Space. Check out his youtube channel wit
 
 I did not create any of the 3D models for this mod. I simply changed textures and subtypes in configs.
 
-All the space shuttles except challenger went through a livery update in 1998. This changed the flag placment and added the NASA meatball on its left wing. I implimented this into the mod with a 1980 varient and a modern varient on all the shuttles, with the exception of challenger which only lasted 9 missions before flying its fatal 10th for STS-51L on January 28th, 1986.
+All the space shuttles except challenger went through a livery update in 1998. This changed the flag placment and added the NASA meatball on its left wing. I implimented this into the mod with a 1980 varient and a modern varient on all the shuttles. Only exception is challenger which only lasted 9 missions before flying its fatal 10th for STS-51L on January 28th, 1986.
 
 WARNING: Highly suggested to backup your current SPACE_SHUTTLE_SYSTEM folder if you have one.
 
