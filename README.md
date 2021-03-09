@@ -7,7 +7,7 @@ MODS REQUIRED: ASET, JSI(Raster prop monitor)
 Thanks to Decq for creating this mod in the first place.
 Thanks to DylanSemrau for his version of SpaceShuttleSystem.
 
-Shuttle Fixes are implimented from Raiz Space. Check out his youtube channel with this link: https://www.youtube.com/channel/UCeHMXQRT6D3o2sbfsqkpCcA
+Shuttle Fixes are implemented from Raiz Space. Check out his youtube channel with this link: https://www.youtube.com/channel/UCeHMXQRT6D3o2sbfsqkpCcA
 
 I did not create any of the 3D models for this mod. I simply changed textures and subtypes in configs.
 
