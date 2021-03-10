@@ -29,6 +29,10 @@ Modern Varients:
 ![image](https://user-images.githubusercontent.com/77604027/110506147-7502df80-80c4-11eb-8f2c-f190751a311b.png)
 ![image](https://user-images.githubusercontent.com/77604027/110506173-792efd00-80c4-11eb-9872-242a807659ff.png)
 
+V1.1
+
+- Finished accurate 1980 wing textures.
+
 
 V1.0
 
