@@ -35,6 +35,8 @@ Modern Varients:
 ![image](https://user-images.githubusercontent.com/77604027/110506173-792efd00-80c4-11eb-9872-242a807659ff.png)
 
 Waterfall:
+![image](https://user-images.githubusercontent.com/77604027/119230950-20c4a480-bae4-11eb-84ee-97c4ff28bbe4.png)
+
 
 
 V1.2
