@@ -2,12 +2,17 @@ This mod is licensed under a Creative Commons Attribution-NonCommercial-ShareAli
 
 MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
 
-MODS REQUIRED: ASET, JSI(Raster prop monitor), KSPWheel, Firespitter
+MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, Firespitter, ROE-WaterFall
 
 Thanks to Decq for creating this mod in the first place.
 Thanks to DylanSemrau for his version of SpaceShuttleSystem.
 
+Thanks to vevladdd for getting waterfall support for this mod.
+Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
+
 Shuttle Fixes are implemented from Raiz Space. Check out his youtube channel with this link: https://www.youtube.com/channel/UCeHMXQRT6D3o2sbfsqkpCcA
+
+ROE-Waterfall can be found here: https://github.com/vevladdd/ROE-Waterfall
 
 I did not create any of the 3D models for this mod. I am simply making realistic time period textures and keeping this mod up to date until KSP2 Releases.
 
@@ -29,7 +34,12 @@ Modern Varients:
 ![image](https://user-images.githubusercontent.com/77604027/110506147-7502df80-80c4-11eb-8f2c-f190751a311b.png)
 ![image](https://user-images.githubusercontent.com/77604027/110506173-792efd00-80c4-11eb-9872-242a807659ff.png)
 
-Coming soon: WaterFall Support
+Waterfall:
+
+
+V1.2
+
+- Added WaterFall support for RS25, AJ10, and RCS thrusters.
 
 V1.1
 
