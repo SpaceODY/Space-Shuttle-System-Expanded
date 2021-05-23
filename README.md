@@ -26,6 +26,9 @@ Installation:
 3. ???
 4. PROFIT
 
+
+If you have any quesitons for me, contact me in the KSP discord server. My name is NASA Fan in it.
+
 1980 Varients:
 ![image](https://user-images.githubusercontent.com/77604027/110506070-63b9d300-80c4-11eb-9f0d-abca3df9d621.png)
 ![image](https://user-images.githubusercontent.com/77604027/110506095-69afb400-80c4-11eb-9639-a21b45d7f072.png)
