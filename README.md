@@ -2,7 +2,7 @@ This mod is licensed under a Creative Commons Attribution-NonCommercial-ShareAli
 
 MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
 
-MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, Firespitter, ROE-WaterFall
+MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, Firespitter, Watefall, ROE-WaterFall
 
 Thanks to Decq for creating this mod in the first place.
 Thanks to DylanSemrau for his version of SpaceShuttleSystem.
