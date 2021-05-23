@@ -38,7 +38,9 @@ Waterfall:
 
 ![image](https://user-images.githubusercontent.com/77604027/119230950-20c4a480-bae4-11eb-84ee-97c4ff28bbe4.png)
 
-
+Future plans:
+- Hubble Space Telescope
+- Reviving canada arm mod
 
 V1.2
 
