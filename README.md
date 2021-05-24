@@ -10,7 +10,7 @@ Thanks to DylanSemrau for his version of SpaceShuttleSystem.
 Thanks to vevladdd for getting waterfall support for this mod.
 Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
 
-Shuttle Fixes are implemented from Raiz Space. Check out his youtube channel with this link: https://www.youtube.com/channel/UCeHMXQRT6D3o2sbfsqkpCcA
+Shuttle Fixes are implemented from Raiz Space. (NO LONGER UP TO DATE, WILL BE SOON) Check out his youtube channel with this link: https://www.youtube.com/channel/UCeHMXQRT6D3o2sbfsqkpCcA
 
 ROE-Waterfall can be found here: https://github.com/vevladdd/ROE-Waterfall
 
