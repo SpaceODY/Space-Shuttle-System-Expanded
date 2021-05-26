@@ -4,10 +4,14 @@ MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
 
 MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, Firespitter, Watefall, ROE-WaterFall
 
+Thanks to Radar for making this a community mod so we can work on keeping it up to date together.
+
 Thanks to Decq for creating this mod in the first place.
+
 Thanks to DylanSemrau for his version of SpaceShuttleSystem.
 
 Thanks to vevladdd for getting waterfall support for this mod.
+
 Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
 
 Shuttle Fixes are implemented from Raiz Space. (NO LONGER UP TO DATE, WILL BE SOON) Check out his youtube channel with this link: https://www.youtube.com/channel/UCeHMXQRT6D3o2sbfsqkpCcA
