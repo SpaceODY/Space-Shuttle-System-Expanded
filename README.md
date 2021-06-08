@@ -49,6 +49,9 @@ Future plans:
 - Hubble Space Telescope
 - Reviving canada arm mod
 
+V1.2A
+- Updated Wings to Raiz Aerospace's most recent (As of 6/7/21)
+
 V1.2
 
 - Added WaterFall support for RS25, AJ10, and RCS thrusters.
