@@ -26,9 +26,10 @@ WARNING: Highly suggested to backup your current SPACE_SHUTTLE_SYSTEM folder if 
 
 Installation: 
 1. Remove any previous versions of Space Shuttle System from GameData
-2. Bring everything over from the download's gamedata folder and overwrite the configs in RealismOverhaul
-3. ???
-4. PROFIT
+2. Put the folder named "SPACE_SHUTTLE_SYSTEM" and "RealismOverhaul" into your KSP Gamedata.
+3. OPTIONAL: If you want to use Dylan's aerodynamics copy and paste the contents of his aerodynamic folder into gamedata and overwrite it.
+4. ???
+5. PROFIT
 
 
 If you have any quesitons for me, contact me in the KSP discord server. My name is NASA Fan in it.
@@ -48,6 +49,8 @@ Waterfall:
 Future plans:
 - Hubble Space Telescope
 - Reviving canada arm mod
+V1.3
+- Included Dylan's aerodynamics as an option for aerodynamics.
 
 V1.2A
 - Updated Wings to Raiz Aerospace's most recent (As of 6/7/21)
