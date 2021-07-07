@@ -1,6 +1,6 @@
 This mod is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
+MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.11.2 (May work on other versions)
 
 MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, Firespitter, Watefall, ROE-WaterFall
 
@@ -49,6 +49,9 @@ Waterfall:
 Future plans:
 - Hubble Space Telescope
 - Reviving canada arm mod
+
+V1.31
+- Re-Textured External Tank.
 
 V1.3
 - Included Dylan's aerodynamics as an option for aerodynamics.
