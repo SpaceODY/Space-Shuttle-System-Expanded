@@ -31,6 +31,8 @@ Installation:
 4. ???
 5. PROFIT
 
+If you want to try the HD Textures (WIP) bring the folder named GameData inside of it and overwrite anything that comes up.
+
 
 If you have any quesitons for me, contact me in the KSP discord server. My name is NASA Fan in it.
 
@@ -63,7 +65,13 @@ Future plans:
 - Fixing UVs on some parts
 - HD textures
 
-V1.4
+V1.4 RELEASE
+- Attempt 2 at rebalancing thermal system
+- Fixed B9 Part switch warning
+- Fixed Analog cabin not having waterfall support
+- (WIP) Optional HD textures folder (Currently only for cabin on select shuttles)
+
+V1.4 PRE RELEASE
 - Added new payload bay texture (Removed height maps on it for now)
 - Dylans aerodynamics built in, no longer holding support for raiz aerospaces (This is for the re entry script and because it is easier to mod + it works)
 - Analog cockpit included for 1980 shuttles
