@@ -16,8 +16,6 @@ Thanks to vevladdd for getting waterfall support for this mod.
 
 Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
 
-Shuttle Fixes are implemented from Raiz Space. Check out his youtube channel with this link: https://www.youtube.com/channel/UCeHMXQRT6D3o2sbfsqkpCcA
-
 ROE-Waterfall can be found here: https://github.com/vevladdd/ROE-Waterfall
 
 I did not create any of the 3D models for this mod. I am simply making realistic time period textures and keeping this mod up to date until KSP2 Releases.
@@ -38,13 +36,13 @@ If you have any quesitons for me, contact me in the KSP discord server. My name 
 
 1980 Varient example:
 
-![image](https://user-images.githubusercontent.com/77604027/110506070-63b9d300-80c4-11eb-9f0d-abca3df9d621.png)
-![image](https://user-images.githubusercontent.com/77604027/110506095-69afb400-80c4-11eb-9639-a21b45d7f072.png)
+![image](https://user-images.githubusercontent.com/77604027/125873830-b5fb5244-7fab-4072-9ce4-8dfdba49dc01.png)
+
 
 Modern example:
 
-![image](https://user-images.githubusercontent.com/77604027/110506147-7502df80-80c4-11eb-8f2c-f190751a311b.png)
-![image](https://user-images.githubusercontent.com/77604027/110506173-792efd00-80c4-11eb-9872-242a807659ff.png)
+![image](https://user-images.githubusercontent.com/77604027/125873844-907d5fb8-f30a-40bc-96b8-f07317793b5c.png)
+
 
 Waterfall:
 
@@ -52,6 +50,7 @@ Waterfall:
 
 Analog cockpit:
 
+![image](https://user-images.githubusercontent.com/77604027/125873852-e1723aa5-1a5b-4074-b5c0-00f2511f0817.png)
 
 
 Future plans:
