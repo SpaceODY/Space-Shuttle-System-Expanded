@@ -53,6 +53,9 @@ Analog cockpit:
 ![image](https://user-images.githubusercontent.com/77604027/125873852-e1723aa5-1a5b-4074-b5c0-00f2511f0817.png)
 
 
+RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn8
+
+
 Future plans:
 - Hubble Space Telescope
 - Updating Mod for RO 14.0.0+
