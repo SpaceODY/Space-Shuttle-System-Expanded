@@ -2,9 +2,7 @@ This mod is licensed under a Creative Commons Attribution-NonCommercial-ShareAli
 
 MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.11.2 (May work on other versions)
 
-OMS ENGINES WONT WORK PROPERLY WITH NEWER RO, USE HELIUM OR NITROGEN AS A TEMPORARY FIX
-
-MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, Firespitter, Watefall, ROE-WaterFall
+MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, Firespitter, Watefall, Realism Overhaul
 
 Thanks to Radar for making this a community mod so we can work on keeping it up to date together.
 
@@ -15,6 +13,8 @@ Thanks to DylanSemrau for his version of SpaceShuttleSystem.
 Thanks to vevladdd for getting waterfall support for this mod.
 
 Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
+
+Thanks to giuliodondi for his public configs for SSS.
 
 ROE-Waterfall can be found here: https://github.com/vevladdd/ROE-Waterfall
 
@@ -34,7 +34,7 @@ Installation:
 If you want to try the HD Textures (WIP) bring the folder named GameData inside of it and overwrite anything that comes up.
 
 
-If you have any quesitons for me, contact me in the KSP discord server. My name is NASA Fan in it.
+If you have any quesitons for me, contact me in the KSP discord server. My name is NASA Fan or SpaceODY in it.
 
 1980 Varient example:
 
@@ -60,10 +60,15 @@ RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn
 
 Future plans:
 - Hubble Space Telescope
-- Updating Mod for RO 14.0.0+
 - Kerbalism support built in
 - Fixing UVs on some parts
 - HD textures
+
+V1.5 PRE RELEASE
+- Brought SSS back up to date with most recent RO (Should be 14.6)
+- Used giuliodondi updated configs for SSS
+- Kerbalism Support will be added in full 1.5 release
+- SIDE NOTE: If tanks do not have helium added to them, you may need to replace the parts with new ones.
 
 V1.4 RELEASE
 - Attempt 2 at rebalancing thermal system
