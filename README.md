@@ -1,8 +1,8 @@
-This mod is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
 
-MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.11.2 (May work on other versions)
+MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch, Realism Overhaul
 
-MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, Firespitter, Watefall, Realism Overhaul
+MODS SUPPORTED: Kerbalsim, TACLifeSupport(From regular RO), Waterfall.
 
 Thanks to Radar for making this a community mod so we can work on keeping it up to date together.
 
@@ -16,7 +16,7 @@ Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
 
 Thanks to giuliodondi for his public configs for SSS.
 
-ROE-Waterfall can be found here: https://github.com/vevladdd/ROE-Waterfall
+Thanks to D0m1nu2 for Kerbalism Configs.
 
 I did not create any of the 3D models for this mod. I am simply making realistic time period textures and keeping this mod up to date until KSP2 Releases.
 
@@ -64,6 +64,12 @@ Future plans:
 - Fixing UVs on some parts
 - HD textures
 
+V1.5 Release
+- Brought SSS back up to date with most recent RO (14.0.0-14.6.0)
+- Used giuliodondi updated configs for SSS
+- Kerbalism Support Added (Thanks to D0m1nu2)
+- SIDE NOTE: If tanks do not have helium added to them, you may need to replace the parts with new ones.
+
 V1.5 PRE RELEASE
 - Brought SSS back up to date with most recent RO (Should be 14.6)
 - Used giuliodondi updated configs for SSS
@@ -105,3 +111,6 @@ V1.1
 V1.0
 
 - Initial Release of wing textures and configs for the space shuttle.
+
+
+This mod is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
