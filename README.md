@@ -68,6 +68,7 @@ V1.5 Release
 - Brought SSS back up to date with most recent RO (14.0.0-14.6.0)
 - Used giuliodondi updated configs for SSS
 - Kerbalism Support Added (Thanks to D0m1nu2)
+- Removed old wings that had no textures.
 - SIDE NOTE: If tanks do not have helium added to them, you may need to replace the parts with new ones.
 
 V1.5 PRE RELEASE
