@@ -60,7 +60,6 @@ RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn
 
 Future plans:
 - Hubble Space Telescope
-- Kerbalism support built in
 - Fixing UVs on some parts
 - HD textures
 
