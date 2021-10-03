@@ -60,8 +60,14 @@ RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn
 
 Future plans:
 - Hubble Space Telescope
-- Fixing UVs on some parts
 - HD textures
+
+V1.5.1 Pre Release
+- UV Fixes
+- Cabin UV unwrap fixes
+- Fixed Rear Gear texturing
+- Removed Brackets on the bayload bay bottom (They didn't match up with the new texture)
+- Fixing EVA Hatch orientation (On full release)
 
 V1.5 Release
 - Brought SSS back up to date with most recent RO (14.0.0-14.6.0)
