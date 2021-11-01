@@ -62,6 +62,13 @@ Future plans:
 - Hubble Space Telescope
 - HD textures
 
+V1.5.1 Full Release
+- UV Fixes
+- Cabin UV unwrap fixes
+- Fixed Rear Gear texturing
+- Removed Brackets on the bayload bay bottom (They didn't match up with the new texture)
+- Fixing EVA Hatch orientation (Eventually)
+
 V1.5.1 Pre Release
 - UV Fixes
 - Cabin UV unwrap fixes
