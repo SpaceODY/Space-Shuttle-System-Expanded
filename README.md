@@ -2,6 +2,14 @@ MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
 
 MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch, Realism Overhaul
 
+
+
+
+Expect a folder clean up of this mod soon. (Many textures/configs are in the most random places in the folders and some arent even being used.)
+
+
+
+
 MODS SUPPORTED: Kerbalsim, TACLifeSupport(From regular RO), Waterfall.
 
 Thanks to Radar for making this a community mod so we can work on keeping it up to date together.
