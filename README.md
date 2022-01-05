@@ -66,9 +66,8 @@ Analog cockpit:
 RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn8
 
 
-Future plans:
-- Hubble Space Telescope
-- HD textures
+V1.5.2
+- Removed Life support configs now that ROKerbalism supports the mod
 
 V1.5.1 Full Release
 - UV Fixes
