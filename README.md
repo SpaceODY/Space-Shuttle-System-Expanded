@@ -10,7 +10,7 @@ Expect a folder clean up of this mod soon. (Many textures/configs are in the mos
 
 
 
-MODS SUPPORTED: Kerbalsim, TACLifeSupport(From regular RO), Waterfall.
+MODS SUPPORTED: Kerbalism, TACLifeSupport(From regular RO), Waterfall.
 
 Thanks to Radar for making this a community mod so we can work on keeping it up to date together.
 
@@ -23,8 +23,6 @@ Thanks to vevladdd for getting waterfall support for this mod.
 Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
 
 Thanks to giuliodondi for his public configs for SSS.
-
-Thanks to D0m1nu2 for Kerbalism Configs.
 
 I did not create any of the 3D models for this mod. I am simply making realistic time period textures and keeping this mod up to date until KSP2 Releases.
 
@@ -66,9 +64,8 @@ Analog cockpit:
 RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn8
 
 
-Future plans:
-- Hubble Space Telescope
-- HD textures
+V1.5.2
+- Removed Life support configs now that ROKerbalism supports the mod
 
 V1.5.1 Full Release
 - UV Fixes
