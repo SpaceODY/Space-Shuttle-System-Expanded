@@ -1,39 +1,16 @@
-MADE AND DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
+# Space Shuttle System Expanded
 
-MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch, Realism Overhaul
+### Information
 
+DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
 
-
-
-Expect a folder clean up of this mod soon. (Many textures/configs are in the most random places in the folders and some arent even being used.)
-
-
-
-
-MODS SUPPORTED: Kerbalism, TACLifeSupport(From regular RO), Waterfall.
-
-Thanks to Radar for making this a community mod so we can work on keeping it up to date together.
-
-Thanks to Decq for creating this mod in the first place.
-
-Thanks to DylanSemrau for his version of SpaceShuttleSystem.
-
-Thanks to vevladdd for getting waterfall support for this mod.
-
-Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
-
-Thanks to giuliodondi for his public configs for SSS.
-
-I did not create any of the 3D models for this mod. I am simply making realistic time period textures and keeping this mod up to date until KSP2 Releases.
+MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch
 
 All the space shuttles except challenger went through a livery update in 1998. This changed the flag placment and added the NASA meatball on its left wing. I implimented this into the mod with a 1980 varient and a modern varient on all the shuttles. Only exception is challenger which only lasted 9 missions before flying its fatal 10th for STS-51L on January 28th, 1986.
-
-WARNING: Highly suggested to backup your current SPACE_SHUTTLE_SYSTEM folder if you have one.
 
 Installation: 
 1. Remove any previous versions of Space Shuttle System from GameData
 2. Put the folder named "SPACE_SHUTTLE_SYSTEM" and "RealismOverhaul" into your KSP Gamedata.
-3. OPTIONAL: If you want to use Dylan's aerodynamics copy and paste the contents of his aerodynamic folder into gamedata and overwrite it.
 4. ???
 5. PROFIT
 
@@ -41,6 +18,8 @@ If you want to try the HD Textures (WIP) bring the folder named GameData inside 
 
 
 If you have any quesitons for me, contact me in the KSP discord server. My name is NASA Fan or SpaceODY in it.
+
+### Pictures
 
 1980 Varient example:
 
@@ -63,6 +42,12 @@ Analog cockpit:
 
 RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn8
 
+### Changelog
+V1.6
+- UV Fix on Cabin for Discovery teardrop
+- Empty shuttle texture for custom shuttle names
+- B9PartSwitch texture configs all merged into RealismOverhaul folder
+- Rudder elevon now has thermal tile texture
 
 V1.5.2
 - Removed Life support configs now that ROKerbalism supports the mod
@@ -129,6 +114,21 @@ V1.1
 V1.0
 
 - Initial Release of wing textures and configs for the space shuttle.
+
+
+
+### Credits
+Thanks to Radar for making this a community mod so we can work on keeping it up to date together.
+
+Thanks to Decq for creating this mod in the first place.
+
+Thanks to DylanSemrau for his version of SpaceShuttleSystem.
+
+Thanks to vevladdd for getting waterfall support for this mod.
+
+Thanks to Al2Me6 for the templates on the RCS and SSME (Waterfall)
+
+Thanks to giuliodondi for his public configs for SSS.
 
 
 This mod is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
