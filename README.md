@@ -29,16 +29,6 @@ To fix this, go to the space center and click on scatterer ->  Customize Setting
 
 - Shadow cascade splits: 0.002,0.005,0.015
 
-For even higher quality, I have my shadows set to this:
-
-- Shadow Distance: 50000
-- Shadowmap resolution: 16384
-- Shadow cascade splits: 0.002,0.005,0.015
-- Shadow bias: 0.52
-- Normal Bias: 0.3
-
-
-
 ## Pictures
 
 1980 Varient example:
