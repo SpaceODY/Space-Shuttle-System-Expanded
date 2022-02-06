@@ -19,6 +19,26 @@ If you want to try the HD Textures (WIP) bring the folder named GameData inside 
 
 If you have any quesitons for me, contact me in the KSP discord server. My name is NASA Fan or SpaceODY in it.
 
+## Known Bugs
+
+Scatterer, even on the very high preset, has shadow errors on the shuttle cargo bay. 
+
+![image](https://user-images.githubusercontent.com/77604027/152667254-8abc0852-8633-48a8-838a-38280458d297.png)
+
+To fix this, go to the space center and click on scatterer ->  Customize Settings -> Shadows -> Long-Distance terrain shadows and input the following:
+
+- Shadow cascade splits: 0.002,0.005,0.015
+
+For even higher quality, I have my shadows set to this:
+
+- Shadow Distance: 50000
+- Shadowmap resolution: 16384
+- Shadow cascade splits: 0.002,0.005,0.015
+- Shadow bias: 0.52
+- Normal Bias: 0.3
+
+
+
 ## Pictures
 
 1980 Varient example:
