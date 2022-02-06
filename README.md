@@ -19,7 +19,7 @@ If you want to try the HD Textures (WIP) bring the folder named GameData inside 
 
 If you have any quesitons for me, contact me in the KSP discord server. My name is NASA Fan or SpaceODY in it.
 
-### Pictures
+## Pictures
 
 1980 Varient example:
 
@@ -42,7 +42,7 @@ Analog cockpit:
 
 RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn8
 
-### Changelog
+## Changelog
 V1.6
 - UV Fix on Cabin for Discovery teardrop
 - Empty shuttle texture for custom shuttle names
@@ -117,7 +117,7 @@ V1.0
 
 
 
-### Credits
+## Credits
 Thanks to Radar for making this a community mod so we can work on keeping it up to date together.
 
 Thanks to Decq for creating this mod in the first place.
