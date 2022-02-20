@@ -53,6 +53,13 @@ Analog cockpit:
 RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn8
 
 ## Changelog
+V1.7
+- Revamped Payload Bay texture
+- Revamped payload interior texture of the cabin
+- Cabin subtype enterprise now includes the pilot-static tube
+- Separated payload interior of cabin texture from the primary cabine.dds
+- Other UV fixes
+
 V1.6
 - UV Fix on Cabin for Discovery teardrop
 - Empty shuttle texture for custom shuttle names
