@@ -21,6 +21,8 @@ If you have any quesitons for me, contact me in the KSP discord server. My name 
 
 ## Known Bugs
 
+### Shadows
+
 Scatterer, even on the very high preset, has shadow errors on the shuttle cargo bay. 
 
 ![image](https://user-images.githubusercontent.com/77604027/152667254-8abc0852-8633-48a8-838a-38280458d297.png)
@@ -28,6 +30,11 @@ Scatterer, even on the very high preset, has shadow errors on the shuttle cargo 
 To fix this, go to the space center and click on scatterer ->  Customize Settings -> Shadows -> Long-Distance terrain shadows and input the following:
 
 - Shadow cascade splits: 0.002,0.005,0.015
+
+
+### Missing parts (Enginemount primarly)
+
+- I remember this issue occuring to me a long time ago but I have never had it since. I don't know how this problem occurs due to it functioning just fine for myself. If any of you figure out why this occurs and how to fix it please open an issue about it.
 
 ## Pictures
 
