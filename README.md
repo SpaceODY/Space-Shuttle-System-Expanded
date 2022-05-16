@@ -4,7 +4,7 @@
 
 DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
 
-MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch
+MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch, FAR (Ferram Aerospace Research)
 
 All the space shuttles except challenger went through a livery update in 1998. This changed the flag placment and added the NASA meatball on its left wing. I implimented this into the mod with a 1980 varient and a modern varient on all the shuttles. Only exception is challenger which only lasted 9 missions before flying its fatal 10th for STS-51L on January 28th, 1986.
 
