@@ -2,7 +2,7 @@
 
 ### Information
 
-DESIGNED FOR KSP RO/RSS 1.8.1-1.10.1 (May work on other versions)
+DESIGNED FOR KSP RO/RSS 1.12.3 (May work on other versions)
 
 MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch, FAR (Ferram Aerospace Research)
 
@@ -10,7 +10,7 @@ All the space shuttles except challenger went through a livery update in 1998. T
 
 Installation: 
 1. Remove any previous versions of Space Shuttle System from GameData
-2. Put the folder named "SPACE_SHUTTLE_SYSTEM" and "RealismOverhaul" into your KSP Gamedata.
+2. Put the folder named "SPACE_SHUTTLE_SYSTEM" into your KSP Gamedata.
 4. ???
 5. PROFIT
 
@@ -60,6 +60,13 @@ Analog cockpit:
 RE ENTRY GUIDANCE (HIGHLY SUGGESTED): https://www.youtube.com/watch?v=5VkAmHpXwn8
 
 ## Changelog
+v1.8
+- RCS no longer has its designated pitch, yaw, and roll limitations. Why? This allows for controlling it from a docking port to actually function properly and not spin out of control. Only thing you need to worry about now is your RCS may drain a little bit faster since it uses whatever ports are pointed in the correct direction. (Also, you will need to replace the OMS pods and shuttle cabin parts with brand new ones on previous shuttle saves for it to properly work)
+- After using the new RCS system mentioned above in RP1 for a month I haven't had a major issue with it.
+- Bump maps/normals have been revamped. Now color textures have their respective bumps assigned properly
+- Because I wrote the proper syntax for overwriting Realism Overhaul's texture config and testing RO's configs for all other parts, there is no longer ANY overwriting required.
+- UVs for the cockpit were finally fixed and react to sunlight wayyyy more properly.
+
 V1.7
 - Revamped Payload Bay texture
 - Revamped payload interior texture of the cabin
