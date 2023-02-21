@@ -32,9 +32,10 @@ To fix this, go to the space center and click on scatterer ->  Customize Setting
 - Shadow cascade splits: 0.002,0.005,0.015
 
 
-### Missing parts (Enginemount primarly)
+### Missing parts (Fixed!)
 
-- I remember this issue occuring to me a long time ago but I have never had it since. I don't know how this problem occurs due to it functioning just fine for myself. If any of you figure out why this occurs and how to fix it please open an issue about it.
+- This bug occurs because one folder in ASET was missing.
+File:[ALCOR Advanced IVA](https://spacedock.info/mod/1205/ALCOR%20Advanced%20IVA/download)
 
 ## Pictures
 
