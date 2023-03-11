@@ -16,7 +16,7 @@ Installation:
 4. ???
 5. PROFIT
 
-How To:If you want to try the HD Textures (WIP)Please download the source code of this repository,
+If you want to try the HD Textures (WIP)Please download the source code of this repository,
 How to: First, open the Code screen of this repository.
 Next, press the <>Code button, and you should see a screen like the one below.
 If you see something like this, press the "Download Zip" button near the bottom.
