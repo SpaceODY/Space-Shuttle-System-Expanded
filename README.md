@@ -18,10 +18,12 @@ Installation:
 
 If you want to try the HD Textures (WIP)Please download the source code of this repository,
 How to: First, open the Code screen of this repository.
+
+![image](https://user-images.githubusercontent.com/102701854/224515219-2712d482-6e8c-42b9-bb06-055733dfca60.jpeg)
+
 Next, press the <>Code button, and you should see a screen like the one below.
 If you see something like this, press the "Download Zip" button near the bottom.
 
-![Web キャプチャ_12-3-2023_8039_github com](https://user-images.githubusercontent.com/102701854/224515219-2712d482-6e8c-42b9-bb06-055733dfca60.jpeg)
 
 
 ## Known Bugs
