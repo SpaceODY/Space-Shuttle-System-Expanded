@@ -4,6 +4,8 @@
 
 DESIGNED FOR KSP RO/RSS 1.12.3 (May work on other versions)
 
+Edited version by **You548**
+
 MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch, FAR (Ferram Aerospace Research)
 
 All the space shuttles except challenger went through a livery update in 1998. This changed the flag placment and added the NASA meatball on its left wing. I implimented this into the mod with a 1980 varient and a modern varient on all the shuttles. Only exception is challenger which only lasted 9 missions before flying its fatal 10th for STS-51L on January 28th, 1986.
@@ -32,9 +34,9 @@ To fix this, go to the space center and click on scatterer ->  Customize Setting
 - Shadow cascade splits: 0.002,0.005,0.015
 
 
-### Missing parts (Enginemount primarly)
+### Missing parts (If you are having trouble with this problem, look here!)
 
-- I remember this issue occuring to me a long time ago but I have never had it since. I don't know how this problem occurs due to it functioning just fine for myself. If any of you figure out why this occurs and how to fix it please open an issue about it.
+- Hey Guys! My Is You548.
 
 ## Pictures
 
