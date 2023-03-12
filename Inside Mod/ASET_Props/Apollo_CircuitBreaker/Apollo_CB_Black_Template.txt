@@ -1,0 +1,49 @@
+PROP
+{
+  name = Apollo_CB_Black_Template
+  
+  // MODEL  ----------------------------------------------------------------------
+
+// Base
+
+  	MODEL
+	{
+		model = ASET/ASET_Props/Control/Apollo_CircuitBreaker/Apollo_CB_Black
+		texture = Switch_TUMBLEDiffuse,ASET/ASET_Props/Control/Switch_Tumble/Switch_TUMBLEDiffuse
+	}
+
+// Action -------------------------------------------------------------------------------------------------	
+
+	MODULE
+	{
+		name = JSIActionGroupSwitch
+		switchTransform = Apollo_CB_Collider
+		animationName = Apollo_CB
+	//	perPodPersistenceName = Apollo_PB_SelfLock_Status
+		actionName = dummy
+		initialState = true
+		switchSound = ASET/ASET_Props/Sounds/RPB01
+	}
+	
+// Labels ----------------------------------------------------------------------------------------------
+
+// NAME
+
+	MODULE
+	{
+		name = JSILabel		
+		transformName = TextTopObj
+		alignment = Center
+		anchor = LowerCenter
+		transformOffset = 0.026,-0.007
+		fontName = Arial
+		fontSize = 6.5
+		variableName = CUSTOM_ALCOR_BACKLIGHT_ON
+		emissive = active 
+		positiveColor = COLOR_ASET_SWITCHER_NAME_POSITIVECOLOR
+		zeroColor = COLOR_ASET_SWITCHER_NAME_ZEROCOLOR
+		negativeColor = COLOR_ASET_SWITCHER_NAME_NEGATIVECOLOR
+		labelText = [b]CIRCUIT BREAKER$$$BLACK[/b]
+	}		
+	
+}

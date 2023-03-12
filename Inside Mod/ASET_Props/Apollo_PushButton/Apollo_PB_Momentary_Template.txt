@@ -1,0 +1,50 @@
+PROP
+{
+  name = Apollo_PB_Momentary_Template
+  
+  // MODEL  ----------------------------------------------------------------------
+
+// Base
+
+  	MODEL
+	{
+		model = ASET/ASET_Props/Control/Apollo_PushButton/Apollo_PB
+		texture = Switch_TUMBLEDiffuse,ASET/ASET_Props/Control/Switch_Tumble/Switch_TUMBLEDiffuse
+	}
+
+// Action -------------------------------------------------------------------------------------------------	
+
+	MODULE
+	{
+		name = JSIActionGroupSwitch
+		switchTransform = Apollo_PB_Collider
+		animationName = Apollo_PB_MomentaryAnim
+		customSpeed = 1.5
+		perPodPersistenceName = Apollo_PB_Momentary_Status
+		actionName = dummy
+		switchSound = ASET/ASET_Props/Sounds/NID02
+		momentarySwitch = true
+	}
+	
+// Labels ----------------------------------------------------------------------------------------------
+
+// NAME
+
+	MODULE
+	{
+		name = JSILabel		
+		transformName = TextTopObj
+		alignment = Center
+		anchor = LowerCenter
+		transformOffset = 0.026,-0.007
+		fontName = Arial
+		fontSize = 6.5
+		variableName = CUSTOM_ALCOR_BACKLIGHT_ON
+		emissive = active 
+		positiveColor = COLOR_ASET_SWITCHER_NAME_POSITIVECOLOR
+		zeroColor = COLOR_ASET_SWITCHER_NAME_ZEROCOLOR
+		negativeColor = COLOR_ASET_SWITCHER_NAME_NEGATIVECOLOR
+		labelText = [b]MOMENTARY$$$PUSH BUTTON[/b]
+	}		
+	
+}
