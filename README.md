@@ -2,6 +2,8 @@
 
 ### Information
 
+Really suggest to use this instead. Very well done: https://github.com/giuliodondi/Space-Shuttle-System-Expanded
+
 DESIGNED FOR KSP RO/RSS 1.12.3 (May work on other versions)
 
 MODS REQUIRED: ASET (Core, Avionics, Rover props), JSI(Raster prop monitor), KSPWheel, B9PartSwitch, FAR (Ferram Aerospace Research)
