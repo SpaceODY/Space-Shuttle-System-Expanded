@@ -2,7 +2,7 @@
 
 ### Information
 
-Really suggest to use this instead. Very well done: https://github.com/giuliodondi/Space-Shuttle-System-Expanded
+# Really suggest to use this instead. Very well done: https://github.com/giuliodondi/Space-Shuttle-System-Expanded
 
 DESIGNED FOR KSP RO/RSS 1.12.3 (May work on other versions)
 
