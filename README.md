@@ -1,7 +1,5 @@
 # Space Shuttle System Expanded
 
-### Information
-
 # Really suggest to use this instead. Very well done: https://github.com/giuliodondi/Space-Shuttle-System-Expanded
 #
 #
