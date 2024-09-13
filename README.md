@@ -1,6 +1,6 @@
 # Space Shuttle System Expanded
 
-# Really suggest to use this instead. Very well done: https://github.com/giuliodondi/Space-Shuttle-System-Expanded
+# Highly suggest to use the newest mod instead instead. It's way better and can be found here: https://github.com/giuliodondi/Space-Shuttle-System-Expanded
 #
 #
 #
